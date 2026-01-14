@@ -1,0 +1,36 @@
+{
+  "name": "policy-navigator",
+  "version": "1.0.0",
+  "description": "Trust-native multi-agent AI application for public benefits",
+  "main": "server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run python\" \"npm run server\" \"npm run client\"",
+    "python": "python agents/python/agent_wrapper.py",
+    "server": "node server.js",
+    "client": "cd frontend && npm start",
+    "install-all": "npm install && cd frontend && npm install && pip install -r requirements.txt",
+    "install-python": "pip install -r requirements.txt",
+    "build": "cd frontend && npm run build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "mqtt": "^5.3.0",
+    "crypto": "^1.0.1",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "ai-agents",
+    "zynd",
+    "verifiable-credentials",
+    "did"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

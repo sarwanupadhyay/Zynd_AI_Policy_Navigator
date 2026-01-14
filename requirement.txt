@@ -1,0 +1,71 @@
+# Policy Navigator - Python Dependencies
+# REQUIRED: This project uses real Zynd AI Agent Python package
+# Python >= 3.8
+
+# ⭐ CORE REQUIREMENT - Real Zynd AI Agent Package
+zyndai-agent
+
+# Flask for Python-Node.js bridge
+flask
+flask-cors
+
+# Async support
+asyncio
+aiohttp
+
+# For document processing (RAG enhancement)
+pypdf2
+python-docx
+langchain
+chromadb
+
+# For ML/AI capabilities
+openai
+anthropic
+transformers
+torch
+
+# For credential handling
+cryptography
+pyjwt
+
+# For API integration
+requests
+aiohttp
+
+# For MQTT (alternative to Node.js mqtt)
+paho-mqtt
+
+# For data validation
+pydantic
+
+# For environment variables
+python-dotenv
+
+# For testing
+pytest
+pytest-asyncio
+pytest-mock
+
+# For code quality
+black
+flake8
+mypy
+
+# For documentation
+sphinx
+
+# Optional: For vector embeddings (RAG)
+sentence-transformers
+faiss-cpu
+
+# Optional: For web scraping policy documents
+beautifulsoup4
+selenium
+
+# Optional: For database (if needed)
+sqlalchemy
+psycopg2-binary
+
+# Note: The main application uses Node.js dependencies
+# See package.json and frontend/package.json for JavaScript dependencies

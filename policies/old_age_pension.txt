@@ -1,0 +1,198 @@
+Old Age Pension Scheme
+======================
+
+Program Overview:
+The Old Age Pension Scheme is a social security program designed to provide 
+financial assistance to elderly citizens to ensure dignity and financial 
+security in their old age.
+
+Objectives:
+- Provide monthly financial support to senior citizens
+- Ensure basic livelihood security for the elderly
+- Reduce old-age poverty
+- Enable elderly citizens to live with dignity
+
+Eligibility Criteria:
+
+1. Age Requirement:
+   - Applicant must be 60 years of age or older
+   - Age proof must be provided through valid government documents
+
+2. Income Requirement:
+   - Annual household income must be below ₹50,000
+   - Income certificate issued by competent authority required
+   - All sources of income to be declared
+
+3. Residency Requirement:
+   - Must be a resident of the state for at least 10 consecutive years
+   - Residence proof from local authorities required
+
+4. Pension Status:
+   - Should not be receiving any other government pension
+   - Exception: family pension or disability pension holders may apply
+   - Declaration of pension status mandatory
+
+Benefits Provided:
+
+Monthly Pension:
+- Base pension amount: ₹2,000 per month
+- Additional ₹500 for citizens above 80 years
+- Annual increment based on consumer price index
+- Direct benefit transfer to bank account
+
+Healthcare Benefits:
+- Free healthcare at government hospitals
+- Subsidized medicines at Jan Aushadhi Kendras
+- Annual health check-up at designated centers
+
+Application Process:
+
+Step 1: Document Preparation
+- Gather all required documents
+- Get income certificate from Tehsildar
+- Obtain age and residence proof
+
+Step 2: Online Application
+- Visit official portal: gov.in/pension
+- Create account using mobile number
+- Fill Application Form OAP-2024
+- Upload all required documents
+
+Step 3: Submission
+- Submit application online
+- Note the application reference number
+- Download acknowledgement receipt
+
+Step 4: Verification
+- Visit nearest pension office within 7 days
+- Complete biometric verification
+- Submit original documents for verification
+
+Step 5: Approval
+- Application reviewed by District Pension Committee
+- Verification of documents and eligibility
+- Approval decision within 15-30 business days
+- SMS and email notification sent
+
+Required Documents:
+
+Mandatory Documents:
+1. Aadhaar Card (must be linked with mobile number)
+2. Age Proof:
+   - Birth Certificate, OR
+   - School Leaving Certificate, OR
+   - PAN Card, OR
+   - Voter ID Card
+
+3. Income Certificate:
+   - Issued by Tehsildar or Revenue Officer
+   - Must be less than 6 months old
+   - Should show all income sources
+
+4. Bank Account Details:
+   - Passbook copy (first page)
+   - Bank account must be in applicant's name
+   - Account should be Aadhaar-linked
+
+5. Residence Proof:
+   - Ration Card, OR
+   - Voter ID Card, OR
+   - Electricity Bill, OR
+   - Property Tax Receipt
+
+6. Recent Passport Size Photographs (2 copies)
+
+7. Self-declaration form (provided on portal)
+
+Processing Timeline:
+- Application submission: Day 0
+- Initial verification: Within 3 days
+- Document verification: 5-7 days
+- Committee review: 10-15 days
+- Approval decision: 15-30 days
+- First pension credit: Following month after approval
+
+Rejection and Appeal:
+
+Common Rejection Reasons:
+- Incomplete documentation
+- Age not meeting requirement
+- Income exceeding threshold
+- False information provided
+- Already receiving another pension
+
+Appeal Process:
+- Appeal must be filed within 30 days of rejection
+- Submit appeal form with additional supporting documents
+- Appeal reviewed by State Pension Committee
+- Decision on appeal within 45 days
+- Further appeal possible to High Court
+
+Important Guidelines:
+
+Do's:
+✓ Ensure all documents are valid and updated
+✓ Provide accurate information
+✓ Keep application reference number safe
+✓ Attend biometric verification personally
+✓ Update bank details if changed
+✓ Inform office of any change in income status
+
+Don'ts:
+✗ Do not provide false information
+✗ Do not submit fake documents
+✗ Do not use proxy for biometric verification
+✗ Do not delay document verification
+✗ Do not hide other sources of income
+
+Penalties for Fraud:
+- Immediate pension cancellation
+- Recovery of all pension amounts paid
+- Criminal prosecution under IPC
+- Blacklisting from all government schemes
+
+Contact Information:
+
+Official Portal: https://gov.in/pension
+Toll-Free Helpline: 1800-XXX-XXXX
+Email: pension@gov.in
+SMS Service: Send 'PENSION' to 56677
+
+Office Hours:
+Monday to Friday: 10:00 AM - 5:00 PM
+Lunch Break: 1:00 PM - 2:00 PM
+Closed on public holidays
+
+District Pension Offices:
+Contact your local district pension office for in-person assistance
+Find nearest office: https://gov.in/pension/offices
+
+Grievance Redressal:
+For complaints: grievance.pension@gov.in
+Online complaint portal: https://gov.in/pension/grievance
+Response time: 7 working days
+
+Frequently Asked Questions:
+
+Q: Can I apply if I'm receiving family pension?
+A: Yes, family pension holders are eligible to apply.
+
+Q: What if I don't have a bank account?
+A: You must open a bank account before applying. Jan Dhan accounts are accepted.
+
+Q: Can my family member apply on my behalf?
+A: Application can be filled by family, but biometric verification must be done personally.
+
+Q: When will I receive the first payment?
+A: First payment will be credited in the month following approval.
+
+Q: What if my pension is delayed?
+A: Contact helpline or visit nearest pension office with application reference number.
+
+Last Updated: January 2025
+Policy Version: 3.2
+Authorized By: Department of Social Welfare
+
+---
+This is an official government policy document.
+For latest updates, visit the official portal.
