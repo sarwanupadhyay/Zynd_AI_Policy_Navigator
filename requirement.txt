@@ -66,6 +66,3 @@ selenium
 # Optional: For database (if needed)
 sqlalchemy
 psycopg2-binary
-
-# Note: The main application uses Node.js dependencies
-# See package.json and frontend/package.json for JavaScript dependencies
