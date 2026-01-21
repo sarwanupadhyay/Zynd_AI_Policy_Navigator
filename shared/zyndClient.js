@@ -50,8 +50,6 @@ class ZyndClient {
     if (!this.credential || !this.credential.id) {
       throw new Error('Invalid credential format');
     }
-    
-    // Simulate cryptographic verification
     const isValid = this.validateCredentialSignature(this.credential);
     
     if (!isValid) {
