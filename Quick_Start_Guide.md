@@ -366,8 +366,3 @@ For issues and questions:
 
 MIT License - See LICENSE file for details
 
----
-
-**Happy Building! 🚀**
-
-Remember: This is a trust-native multi-agent system, not just a chatbot!
