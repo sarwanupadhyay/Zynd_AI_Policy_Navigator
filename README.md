@@ -126,3 +126,9 @@ It shows a real-world path to responsible AI in public services.
 3. Start agent services  
 4. Run the frontend  
 5. Ask: “What benefits can I get?”  
+
+---
+
+## Core Message
+**This is not a chatbot.  
+This is a network of verified AI agents that collaborate with trust, privacy, and accountability by design.**
