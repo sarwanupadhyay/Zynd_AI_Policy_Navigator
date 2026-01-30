@@ -3,15 +3,13 @@ import Header from './components/Header';
 import AgentNetwork from './components/AgentNetwork';
 import CitizenPanel from './components/CitizenPanel';
 import AuditTimeline from './components/AuditTimeline';
-// import mock data if needed
-// import { mockAgents } from './mockData';
+
 const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:5000/api';
 
 function App() {
   const [agents, setAgents] = useState([]);
   const [auditLogs, setAuditLogs] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
-
   useEffect(() => {
     fetchAgents();
     fetchAuditLogs();
