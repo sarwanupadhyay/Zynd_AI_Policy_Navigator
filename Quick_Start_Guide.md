@@ -358,12 +358,8 @@ pm2 startup
 ## 🤝 Support
 
 For issues and questions:
-- **GitHub Issues**: <repo-url>/issues
-- **Email**: support@example.com
-- **Discord**: Join our community
+- **Email**: sarwanupadhyay19@gmail.com
 
 ## 📄 License
 
 MIT License - See LICENSE file for details
-
-
