@@ -14,7 +14,6 @@ function App() {
     fetchAgents();
     fetchAuditLogs();
     
-    // Poll for updates every 2 seconds
     const interval = setInterval(() => {
       fetchAuditLogs();
     }, 2000);
